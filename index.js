@@ -12,7 +12,7 @@ return "Welcome, " + name + ". You are number " + katzDeli.length + " in line.";
 } 
 
 var x = 0;
-function takeANumber(){
+function takeANum(){
 x++;
 return "You are number " + x + " in line.";
 } 
